@@ -58,7 +58,7 @@ Need to tune the hyperparameters for better performance.
     - Multi-step Returns ==> https://arxiv.org/pdf/1703.01327.pdf
     - Distributional RL ==> https://arxiv.org/abs/1707.06887
     - Noisy Nets ==> https://arxiv.org/abs/1706.10
-A good implmentation of Rainbow algorithm in PyTorch can be found here ==> https://github.com/Kaixhin/Rainbow
+A good implementation of Rainbow algorithm in PyTorch can be found here ==> https://github.com/Kaixhin/Rainbow
   - Policy gradient method:
     - PPO algorithm ==> https://blog.openai.com/openai-baselines-ppo/
   - Actor critic method:
