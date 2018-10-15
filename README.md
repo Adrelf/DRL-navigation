@@ -26,6 +26,7 @@ Considered solved when the average reward is greater than or equal to +13 over 1
 DQN with some improvements:
  - Deep Reinforcement Learning with Double Q-learning ==> https://arxiv.org/abs/1509.06461 
  - Dueling Network Architecture ==> https://arxiv.org/abs/1511.06581
+ - Prioritized Experience Replay ==> https://arxiv.org/abs/1511.05952
  
 # Getting started
 Step 1: Install ML-agents ==> https://github.com/Unity-Technologies/ml-agents and follow the instructions here ==> https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
@@ -39,5 +40,3 @@ $python main_navigation.py
 
 To assess the performance of a given agent:
 $python eval_navigation.py
-
-# Instructions
