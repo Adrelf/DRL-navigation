@@ -1,6 +1,8 @@
 # DRL-navigation
 Train an agent to navigate in a complex environment and collect bananas. The deep reinforcement learning algorithm is based on value-based method (DQN)
 
+![alt text](https://github.com/Adrelf/DRL-navigation/blob/master/images/banana.gif)
+
 # The Environment 
 The environment is determinist.
  + State: 
