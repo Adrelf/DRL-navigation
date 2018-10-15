@@ -30,8 +30,11 @@ DQN with some improvements:
  
 # Getting started
 Step 1: Install ML-agents ==> https://github.com/Unity-Technologies/ml-agents and follow the instructions here ==> https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md.
+
 Step 2: Install Python (only version >3 is supported) and PyTorch.
+
 Step 3: Clone this repository.
+
 Step 4: Download the Unity Environment ==> https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
 Then, place the file in the DRL-navigation/ folder in this repository, and unzip (or decompress) the file.
 
