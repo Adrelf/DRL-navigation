@@ -3,6 +3,7 @@ DQN with some improvements:
   - Deep Reinforcement Learning with Double Q-learning
   - Dueling Network Architecture
   - Prioritized Experience Replay. Implementation is an adaptation from this code source ==> https://github.com/openai/baselines/tree/master/baselines/deepq
+
 The access to memory is based on sumTree method for a better efficiency. This blog explains well how it works ==> https://jaromiru.com/2016/11/07/lets-make-a-dqn-double-learning-and-prioritized-experience-replay/
   
 # Model architecture
@@ -43,8 +44,8 @@ Environment solved in 330 episodes. Average score: 13.13
 
 
   + Performance for DQN Agent with PER.
-Environment solved in 321 episodes. Average score: 13.15
-Need to tune the hyperparameters for a better efficiency.
+Environment solved in 321 episodes. Average score: 13.15.
+Need to tune the hyperparameters for better performance.
 
 ![alt text](https://github.com/Adrelf/DRL-navigation/blob/master/images/Banana_Nav_PER.png)
 
