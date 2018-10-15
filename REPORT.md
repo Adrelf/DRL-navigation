@@ -7,7 +7,9 @@ DQN with some improvements:
 The access to memory is based on sumTree method for a better efficiency. This blog explains well how it works ==> https://jaromiru.com/2016/11/07/lets-make-a-dqn-double-learning-and-prioritized-experience-replay/
   
 # Model architecture
+The model is very simple and composed of 2 fully connected layer with relu activation.
 
+![alt text](https://github.com/Adrelf/DRL-navigation/blob/master/images/Model_architecture.png)
 
 # Hyperparameters tuning
 The most important parameter to tune is the learnin rate.
