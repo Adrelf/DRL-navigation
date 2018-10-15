@@ -1,7 +1,7 @@
 # DRL-navigation
 Train an agent to navigate in a complex environment and collect bananas. The deep reinforcement learning algorithm is based on value-based method (DQN)
 
-The Environment (determinist)
+# The Environment (determinist)
  + State: 
  The state space has 37 dimensions and contains:
     - 7 rays projecting from the agent at the following angles: [20, 90, 160, 45, 135, 70, 110] # 90 is directly in front of the agent
@@ -18,3 +18,9 @@ The Environment (determinist)
     - -1 for collecting a blue banana
  + Solved Requirements:
 Considered solved when the average reward is greater than or equal to +13 over 100 consecutive trials.
+
+# Algorithm
+DQN with some improvements:
+ - Deep Reinforcement Learning with Double Q-learning ==> https://arxiv.org/abs/1509.06461 
+ - Dueling Network Architecture ==> https://arxiv.org/abs/1511.06581
+ 
