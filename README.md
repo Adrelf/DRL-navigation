@@ -1,5 +1,5 @@
 # DRL-navigation
-Train an agent to navigate in a complex environment and collect bananas. The deep reinforcement learning algorithm is based on value-based method (DQN)
+Train an agent to navigate in a complex environment and collect bananas. The deep reinforcement learning algorithm is based on value-based method (DQN).
 
 ![alt text](https://github.com/Adrelf/DRL-navigation/blob/master/images/banana.gif)
 
@@ -29,10 +29,10 @@ DQN with some improvements:
  - Prioritized Experience Replay ==> https://arxiv.org/abs/1511.05952
  
 # Getting started
-Step 1: Install ML-agents ==> https://github.com/Unity-Technologies/ml-agents and follow the instructions here ==> https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
-Step 2: Install Python (only version >3 is supported) and PyTorch
-Step 2: Clone this repository
-Step 3: Download the Unity Environment ==> https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+Step 1: Install ML-agents ==> https://github.com/Unity-Technologies/ml-agents and follow the instructions here ==> https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md.
+Step 2: Install Python (only version >3 is supported) and PyTorch.
+Step 3: Clone this repository.
+Step 4: Download the Unity Environment ==> https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
 Then, place the file in the DRL-navigation/ folder in this repository, and unzip (or decompress) the file.
 
 To train an agent, please use the following command:
